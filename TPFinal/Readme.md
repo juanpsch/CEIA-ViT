@@ -5,5 +5,5 @@
 - Cristian D Marino.
 
 ## Estructura
- - En el arhivo TPFinal se encuentra el código de análisis y entrenamiento y algunas pruebas.
- - En el archibo TPFinal2 se encuentra el código de métricas levantando el modelo preentrenado
+ - En el archivo TPFinal se encuentra el código de análisis y entrenamiento y algunas pruebas.
+ - En el archivo TPFinal2 se encuentra el código de métricas levantando el modelo preentrenado
