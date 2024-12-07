@@ -7,3 +7,4 @@
 ## Estructura
  - En el archivo TPFinal se encuentra el código de análisis y entrenamiento y algunas pruebas.
  - En el archivo TPFinal2 se encuentra el código de métricas levantando el modelo preentrenado
+ - En la carpeta trained-model se encuentra el modelo final con el fine-tuning
