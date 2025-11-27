@@ -4,7 +4,7 @@ This project demonstrates the implementation of Deep Learning techniques for ima
 
 ## 🎯 Project Goal
 
-To develop a high-performance image classification model capable of distinguishing between 101 distinct food categories, reaching a classification accuracy above 90% on the validation set through efficient fine-tuning strategies.
+To develop a high-performance image classification model capable of distinguishing between 101 distinct food categories, reaching a classification accuracy above 87% on the validation set through efficient fine-tuning strategies.
 
 ## ⚙️ Technical Stack & Technologies
 
@@ -28,7 +28,7 @@ The project leverages a modern Deep Learning stack optimized for performance and
 
 ## 🛠️ Implementation Details
 
-The core workflow is documented in `TPFinal_Juan_Schamun.ipynb` and includes the following steps:
+The core workflow is documented in `TPFinal.ipynb` and includes the following steps:
 
 1. **Data Preparation:** Loading the Food-101 dataset, splitting it into training, validation, and test sets.
 
