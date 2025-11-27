@@ -40,4 +40,12 @@ The core workflow is documented in `TPFinal_Juan_Schamun.ipynb` and includes the
 
 5. **Evaluation:** Calculating key performance metrics (accuracy, loss, confusion matrix) on the held-out test set.
 
-## 📂 Repository Structure
+## 📂 Project Structure
+
+* **TPFinal File:** Contains the analysis, training code, and some tests.
+
+* **TPFinal2 File:** Contains the metrics code, loading the pre-trained model.
+
+* **trained-model Folder:** Contains the final model with fine-tuning.
+
+* **Final Model Link:** The final fine-tuned model is also available at the following [link](https://drive.google.com/drive/folders/12-z3U-goiskTPY2wMMqcPB07o7GaNiG-).
