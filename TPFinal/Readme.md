@@ -20,7 +20,7 @@ The project leverages a modern Deep Learning stack optimized for performance and
 
 ## 🚀 Key Achievements & Results
 
-* **High Accuracy:** Achieved a validation accuracy of **[Insert Final Accuracy Here, e.g., 93.5%]**, confirming the efficacy of the ViT fine-tuning approach.
+* **High Accuracy:** Achieved a validation accuracy of 87.57%, confirming the efficacy of the ViT fine-tuning approach.
 
 * **Transfer Learning:** Successfully implemented transfer learning from a model pre-trained on ImageNet, significantly reducing training time and computational cost compared to training from scratch.
 
